@@ -1,3 +1,4 @@
+https://scripties.uba.uva.nl/search?id=723252
 # IMLart
 Data annotation for machine learning can be a time-consuming and inefficient process. Interactive machine learning aims to make this process more efficient. This study aims to determine in what way interactive machine learning can be used to classify visual art pieces into discrete classes. In this context, interactive machine learning is defined as a machine learning algorithm that incorporates user feedback into the training process. Furthermore, this study compares the performance of interactive machine learning to conventional computer vision methods. Interactive machine learning is expected to outperform conventional machine learning algorithms in terms of data efficiency. 
     
